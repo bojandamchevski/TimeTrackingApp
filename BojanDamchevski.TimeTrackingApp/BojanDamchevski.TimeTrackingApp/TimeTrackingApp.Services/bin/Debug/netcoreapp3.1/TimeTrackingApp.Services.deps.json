@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TimeTrackingApp.Services/1.0.0": {
+        "dependencies": {
+          "TimeTrackingApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TimeTrackingApp.Services.dll": {}
+        }
+      },
+      "TimeTrackingApp.Domain/1.0.0": {
+        "runtime": {
+          "TimeTrackingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeTrackingApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeTrackingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
