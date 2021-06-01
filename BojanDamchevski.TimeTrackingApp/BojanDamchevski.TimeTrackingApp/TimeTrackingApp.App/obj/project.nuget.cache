@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "26PRBDJyin6txSCEXGLRirsEFH8GDSnJf9yTaX9+LHRgfeQxUuqDXLXoyOsxAm2kuSlGFMLqqVb2ij00IbFKcw==",
+  "dgSpecHash": "KLWQmo5qu4R6Q4uAnplKVsKY1QPyl0ZBlRsU9pyTUVJBdQPKZ6PCDBXnd9FBNb3oy8c0LPivo7EQBv9fSaokPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Com\\Desktop\\SEDC-Homework-C-Sharp-Advanced\\BojanDamchevski.TimeTrackingApp\\BojanDamchevski.TimeTrackingApp\\TimeTrackingApp.App\\TimeTrackingApp.App.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Com\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

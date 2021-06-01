@@ -64,12 +64,12 @@ namespace TimeTrackingApp.App
         public static IUserService<User> _userService = new UserService<User>();
         static void Main(string[] args)
         {
-            _userService.AddUser(new User("Bojan", "Damchevski", 23, "Bojan123", "Bojan111"));
-            _userService.AddUser(new User("Stefan", "Trajkov", 22, "Stefan123", "Stefan111"));
-            _userService.AddUser(new User("Jovana", "Miskimovska", 24, "Jovana123", "Jovana111"));
-            _userService.AddUser(new User("Nenad", "Poposki", 33, "Nenad123", "Nenad111"));
-            _userService.AddUser(new User("Filip", "Trajanovski", 25, "Filip123", "Filip111"));
-            _userService.AddUser(new User("Aleksandar", "Manasievikj", 29, "Aleksandar123", "Aleksandar111"));
+            //_userService.AddUser(new User("Bojan", "Damchevski", 23, "Bojan123", "Bojan111"));
+            //_userService.AddUser(new User("Stefan", "Trajkov", 22, "Stefan123", "Stefan111"));
+            //_userService.AddUser(new User("Jovana", "Miskimovska", 24, "Jovana123", "Jovana111"));
+            //_userService.AddUser(new User("Nenad", "Poposki", 33, "Nenad123", "Nenad111"));
+            //_userService.AddUser(new User("Filip", "Trajanovski", 25, "Filip123", "Filip111"));
+            //_userService.AddUser(new User("Aleksandar", "Manasievikj", 29, "Aleksandar123", "Aleksandar111"));
 
             LandingPage();
         }

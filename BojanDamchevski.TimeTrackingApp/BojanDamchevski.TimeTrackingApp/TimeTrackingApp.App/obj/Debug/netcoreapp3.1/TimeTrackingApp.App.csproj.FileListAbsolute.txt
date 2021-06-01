@@ -26,7 +26,6 @@ C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTracking
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\bin\Debug\netcoreapp3.1\TimeTrackingApp.Services.dll
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\bin\Debug\netcoreapp3.1\TimeTrackingApp.Services.pdb
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\bin\Debug\netcoreapp3.1\TimeTrackingApp.Domain.pdb
-C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.csprojAssemblyReference.cache
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.AssemblyInfoInputs.cache
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.AssemblyInfo.cs
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.csproj.CoreCompileInputs.cache
@@ -34,3 +33,5 @@ C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTracking
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.dll
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.pdb
 C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.genruntimeconfig.cache
+C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Com\Desktop\SEDC-Homework-C-Sharp-Advanced\BojanDamchevski.TimeTrackingApp\BojanDamchevski.TimeTrackingApp\TimeTrackingApp.App\obj\Debug\netcoreapp3.1\TimeTrackingApp.App.csproj.AssemblyReference.cache

@@ -16,7 +16,7 @@ namespace TimeTrackingApp.Services.Implementations
         private IDatabase<T> _database;
         public UserService()
         {
-            _database = new Database<T>();
+            _database = new FileDatabase<T>();
             readingActivity = new Reading();
             exercisingActivity = new Exercising();
             workingActivity = new Working();
@@ -53,7 +53,7 @@ namespace TimeTrackingApp.Services.Implementations
                     Console.ReadKey();
                 }
             }
-            return null;
+            return (T)user;
         }
         public T ChangeLastName(T user)
         {
@@ -80,7 +80,7 @@ namespace TimeTrackingApp.Services.Implementations
                     Console.ReadKey();
                 }
             }
-            return null;
+            return (T)user;
         }
 
         public T ChangePassword(T user)
@@ -110,7 +110,7 @@ namespace TimeTrackingApp.Services.Implementations
                     Console.ReadKey();
                 }
             }
-            return null;
+            return (T)user;
         }
 
         public T DeactivateAccount(T userInput)
@@ -532,21 +532,25 @@ namespace TimeTrackingApp.Services.Implementations
                         if (activityChoice == 1)
                         {
                             readingActivity.ReadingActivity(user);
+                            _database.UpdateUser(user);
                             flag = false;
                         }
                         else if (activityChoice == 2)
                         {
                             exercisingActivity.ExercisingActivity(user);
+                            _database.UpdateUser(user);
                             flag = false;
                         }
                         else if (activityChoice == 3)
                         {
                             workingActivity.WorkingActivity(user);
+                            _database.UpdateUser(user);
                             flag = false;
                         }
                         else if (activityChoice == 4)
                         {
                             otherHobbiesActivity.OtherHobiesActivity(user);
+                            _database.UpdateUser(user);
                             flag = false;
                         }
                         else if (activityChoice == 5)
