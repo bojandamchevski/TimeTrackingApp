@@ -1,2 +1,3 @@
 # TimeTrackingApp
- An app for time tracking
+ An app for time tracking made with C# and which saves the data in a .json format document on the local memory.
+Tp use the app just start the application, and follow the instructions.
